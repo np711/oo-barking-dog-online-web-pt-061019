@@ -17,3 +17,4 @@ fido = Dog.new
   puts fido.name
   
   fido.bark
+  fido.bark
