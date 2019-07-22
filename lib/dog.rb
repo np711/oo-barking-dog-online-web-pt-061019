@@ -14,6 +14,6 @@ end
 fido = Dog.new 
   fido.name="Fido"
   
-  Fido.name
+  puts fido.name
   
   fido.bark
