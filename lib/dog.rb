@@ -9,5 +9,3 @@ Class Dog
   puts "woof!"
   
 end 
-
-end 
