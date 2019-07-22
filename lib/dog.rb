@@ -18,4 +18,6 @@ fido = Dog.new
   
   fido.bark
   fido.bark
+  snoppy = Dog.new
+  
   snoppy.bark
